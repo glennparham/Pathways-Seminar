@@ -1,4 +1,4 @@
-# Pathways-Seminar
+# Pathways Seminar
 
 **Developers: Michaela Palmer, Maya Shen, Cynthia Leu, Chris Cheung**
 
