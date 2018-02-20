@@ -8,6 +8,8 @@ incredibly quickly.
 
 Pandas is considered a "framework" (similar to the "Datascience" framework that we used in Data 8).  Pandas and Datascience are in some ways conceptually similar; however, syntactially different.
 
+**To view everything in DataHub, click [here](http://datahub.berkeley.edu/user-redirect/interact?account=glennparham&repo=Pathways-Seminar&branch=master&path=2.20.18/Pandas).**
+
 License
 =======
 
