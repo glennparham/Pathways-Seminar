@@ -1,6 +1,6 @@
 # Analyzing Cryptocurrency Markets Using Python
 ## A Data-Driven Approach To Cryptocurrency Speculation
-[![Binder](https://mybinder.org/v2/gh/glennparham/crypto_notebook/master)
+ [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/glennparham/crypto_notebook/master)
 
 **NOTE: YOU WILL NOT BE ABLE TO SAVE ANY OF YOUR WORK ON THIS!  IF YOU WANT TO BUILD UPON THIS, YOU CAN DOWNLOAD THIS REPO [HERE](https://github.com/triestpa/Cryptocurrency-Analysis-Python)!
 
